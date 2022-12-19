@@ -23,4 +23,4 @@ By Dinesh Bana
 
 ![badge](https://img.shields.io/badge/Developer%20Landing%20Page-HTML%20%26%20CSS-yellowgreen)
 
-## Project Link: [Shopify Clone](https://developer-landing-website.netlify.app/)
+## Project Link: [Shopify Clone](https://shopifycloneproject.netlify.app/)
